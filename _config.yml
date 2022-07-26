@@ -1,1 +1,6 @@
-theme: jekyll-theme-hacker
+title: ElBaraa Radwan PORTFOLIO
+logo: /assets/img/logo.png
+description: ElBaraa Radwan PORTFOLIO run at ElBaraaRadwan.github.io
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
