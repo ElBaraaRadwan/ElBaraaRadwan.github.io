@@ -60,10 +60,5 @@
 Working on it
   <br/>
 
-
-## 🔗 Contact
-[![Gmail](https://img.shields.io/badge/gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:El-Baraa.S.Radwan@gamil.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elbaraa-radwan/)
-
 ## Watch my contribution graph eaten by the snake 🐍
 ![Snake animation](https://github.com/ElBaraaRadwan/ElBaraaRadwan/blob/output/github-contribution-grid-snake.svg)
