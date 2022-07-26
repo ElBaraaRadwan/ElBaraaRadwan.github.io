@@ -55,10 +55,10 @@
 
 <br>
 
-
 ## 💯 Project
 Working on it
-  <br/>
+
+<br>
 
 ## Watch my contribution graph eaten by the snake 🐍
 ![Snake animation](https://github.com/ElBaraaRadwan/ElBaraaRadwan/blob/output/github-contribution-grid-snake.svg)
